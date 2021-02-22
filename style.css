@@ -1,0 +1,74 @@
+body {
+    background-image: url(https://www.lefthudson.com/wp-content/uploads/2019/11/light-colours-wallpapers-unique-download-3840x2400-wallpaper-light-colors-geometric-pattern-abstract-4k-ultra-hd-16-10-for-you-of-light-colours-wallpapers.jpg;);
+    width : 100%;
+    height : 100%;
+}
+
+.div0 {
+    display:flex;
+    justify-content: center;
+    padding-top: 10em;
+    opacity : .75;
+    width : 100%;
+    height : 100%;
+}
+.div1 {
+    padding: 10em;
+    background-color: rgba(255, 255, 255, 0.877);
+    border-radius : 10px;
+    box-shadow: 10px 10px rgba(97, 84, 84, 0.397);
+}
+
+.inputDiv {
+    display:flex;
+    justify-content: center;
+}
+
+.buttonDiv {
+    display:flex;
+    justify-content: center;
+    padding: 3em;
+}
+
+label {
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;
+    
+}
+
+#button0 {
+    background-color: black;
+    padding : 15px;
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;
+}
+
+input {
+    border: 5px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+    font-size: 2em;
+    font-family: 'Anton', sans-serif;
+    margin : 10px;
+
+}
+
+
+
+.div1 h1 {
+    font-family: 'Anton', sans-serif;
+    font-size : 3em;
+    padding-bottom : 1em;
+    color : black;
+    opacity: 1;
+}
